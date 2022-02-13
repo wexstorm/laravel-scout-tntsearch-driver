@@ -8,6 +8,7 @@
         "laravel"
     ],
     "license": "MIT",
+    "type": "project",
     "authors": [{
         "name": "TNT Studio",
         "email": "info@tntstudio.hr"
